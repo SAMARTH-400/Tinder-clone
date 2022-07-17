@@ -1,0 +1,88 @@
+#header{
+    background: rgb(182,88,245);
+    background: linear-gradient(90deg, rgba(182,88,245,1) 0%, rgba(245,47,145,1) 50%, rgba(252,69,100,1) 100%);
+}
+.mu{
+    width: 45%;
+}
+#logo{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+}
+#dw{
+    padding: 10% 3%;
+    padding-left: 0%;
+}
+#db{
+    margin-left: 0%;
+    margin-right: 5%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    color:gainsboro;
+    padding-top: 7%;
+}   
+h4{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+#at{
+    padding-top: 7%;
+    padding-bottom  : 7%;
+}
+.icon{
+    font-size: 3rem;
+    padding-bottom: 5%;
+    color: rgba(252,69,100,1);
+}
+.icon:hover{
+    color: rgb(247, 95, 120);
+}
+.col-md-4{
+    text-align: center;
+}
+.ps{
+    background-color:rgb(204, 202, 202);
+}
+.sec{
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+}
+span{
+    font-family: 'Montserrat', sans-serif;;
+}
+#footer{
+    height: 150px;
+    background-color:rgb(247, 95, 120);
+    padding-top:25px;
+    margin-top: 8rem;
+}
+.profile{
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 20px;
+}
+.profile:hover{
+    color:white;
+}
+.prc{
+    opacity: 80%;
+}
+.prc:hover{
+    opacity: 100%;
+}
+@media (max-width:970px){
+    #head{
+        text-align: center;
+    }
+}
